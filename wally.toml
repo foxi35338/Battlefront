@@ -2,6 +2,7 @@
 name = "x_077/battlefront"
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
-realm = "shared"
+realm = "ReplicatedStorage/Modules"
 
 [dependencies]
+promise = "evaera/promise@4.0.0"
